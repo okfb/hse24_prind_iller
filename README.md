@@ -29,3 +29,7 @@
 ![image](https://github.com/user-attachments/assets/0914c7cd-8405-4506-bed8-b43d9bae39ca)
 
 ![image](https://github.com/user-attachments/assets/dbcea0d1-e3ef-4b8a-98e8-f410169a6e19)
+
+
+## UPD 19.06 21:37
+Был проведен повторный анализ на протеоме сделанный Augustus по сборке с wormbase. Результат аналогичен :/
